@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avanish2411
-- 👀 I’m interested in app development 
-- 🌱 I’m currently learning how to use Android studio 
-- 💞️ I’m looking to collaborate on app development 
+- 👀 I’m interested in development area.
+- 🌱 I’m currently learning how to use Android studio  
+- 💞️ I’m in leaning phase.
 - 📫 Reach me through my email.
 
 <!---
