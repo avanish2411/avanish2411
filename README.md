@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avanish2411
 - 👀 I’m interested in development area.
-- 🌱 I’m currently learning how to use Android studio  
+- 🌱 I’m currently learning how to use Android studio ,and started flutter development.  
 - 💞️ I’m in leaning phase.
 - 📫 Reach me through my email.
 
