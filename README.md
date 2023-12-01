@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avanish2411
 - 👀 I’m interested in development area.
-- 🌱 I’m currently learning dsa with java and flutter devlopment.
+- 🌱 I’m currently learning dsa with java.
 - 📫 Reach me through my email. @avanishsingh2411@gmail.com
 
 <!---
